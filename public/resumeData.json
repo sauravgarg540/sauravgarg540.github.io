@@ -104,11 +104,19 @@
       },
       {
         "title": "Perceptual grouping of image elements using hGRU network",
-        "image": "imagenette.JPEG",
+        "image": "connected.png",
         "description": [
           "Implemented a vision-inspired hGRU network for thesis that forms long-range spatial dependency between the image elements.",
           "Performed hyperparameter search and achieved an accuracy of 98%.",
           "Investigated the computation stream of the model to see if the model follows incremental grouping theory to group the image elements as done by human vision."
+        ]
+      },
+      {
+        "title": "Generating images from images using cGAN (Pix2Pix)",
+        "image": "connected.png",
+        "description": [
+          "Implemented cGAN for colorizing black and white images, converting google maps to google earth, and converting building facades to real buildings.",
+          "Replicate the paper results.",
         ]
       }
     ]
