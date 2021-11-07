@@ -116,7 +116,7 @@
         "image": "connected.png",
         "description": [
           "Implemented cGAN for colorizing black and white images, converting google maps to google earth, and converting building facades to real buildings.",
-          "Replicate the paper results.",
+          "Replicate the paper results."
         ]
       }
     ]
